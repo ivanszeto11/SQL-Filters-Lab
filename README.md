@@ -16,4 +16,4 @@ Your task is to examine the organization’s data in their **employees** and **l
 ## Project Documents
 
 <a href="https://github.com/ivanszeto11/SQL-Filters-Lab/blob/main/Table%20formats.pdf">Table formats</a>
-<a href="">SQL Filters Lab</a>
+<a href="https://github.com/ivanszeto11/SQL-Filters-Lab/blob/main/SQL%20Filters%20Lab.pdf">SQL Filters Lab</a>
